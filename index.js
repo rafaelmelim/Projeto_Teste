@@ -1,4 +1,4 @@
 import { tuboLogger } from "./tuboLogger.js";
 
 console.log("Estou usando o github !!!!");
-tuboLogger("Estou aprendendo fluxo");
+tuboLogger("Estou aprendendo fluxo", "blue");
