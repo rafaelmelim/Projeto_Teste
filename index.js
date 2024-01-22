@@ -1,1 +1,4 @@
-console.log("Estou usando o github !");
+import { tuboLogger } from "./tuboLogger.js";
+
+console.log("Estou usando o github !!!!");
+tuboLogger("Estou aprendendo fluxo");
